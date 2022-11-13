@@ -1,0 +1,266 @@
+The Art of Management===TITLE===
+Or Tragedy Expell’d===SUBTITLE===
+Mssr. Charlotte Charke===AUTHOR===
+1735===PUBLICATION===
+<p>TO CHARLES FLEETWOOD, Esq;</p><p>SIR,</p><p>  It may appear something strange That I chuse you for a Patron; but as I hate Ingratitude, whom cou'd, so ought I so soon to address as yourself? The many Obligations I have received from you, would make it an unpardonable Error in me, were I to lose this Opportunity of returning you my sincerest Thanks. And at once convince you how just a Sense I have of your Worth and Honour; That you are a Gentleman of a most profound Judgement, every Action of your Life is a sufficient Testimony: But since you have kindly condescended to distract the poor Players with your Understanding, you are become an inimitable Original. In short, Sir, there's no doing you Justice; thou excellent young Man.</p><p>  Since, therefore, ’tis not in my Power to pay your Merits due, I must content myself with only saying, That take you for all in all, I hope ne'er shall look upon your Like again. I have such an implicit Regard for you, that I would not have you incumber your Head with Theatric Affairs any longer, but leave it to the Fools who are us'd to it; and make no more Vacancies, But with your self; as being, in my opinion, of least Use, and consequently the easier spared. </p><br>I am, SIR,<br>With All Due Respect,<br>Your Most Obliged,<br>And Super Abundant,<br>Humble Servant, <br>CHARLOTTE CHARKE.===DEDICATION===
+"<p>AS I am to depend entirely on the Favours of the Town; I think ’tis A necessary to give publick Reasons for publick Proceedings. During the Rehearsal of the following Work, call'd, The Art of Management; or, Tragedy expell’d. I heard from different Hands that I was to suffer from Civil Power, for exhibiting a Satyr on the Managers of Drury Lane. Now, Whether any one about Town know such Persons as Squire Brainless, or Mr. Bloodholt, is doubtful; for I solemnly protest I don't; I can't but say that I Think the Name of Brainless very applicable to a Blockhead, as that of Bloodbolt may be to a Bully. And if there are any People in the World who act in real Life, as those two Characters Are suppos’d to do, I am certain they must be very much confounded and ashamed to acknowledge themselves piqued tho 'the Cap Should Fit.</p><p>And as for satyrizing the Managers, I don't know that there are any Persons. there who can properly claim that Title, for since the two Gentlemen (who governed fox Years ago) have been dead, and the other quitted it, I don't know any one Circumstance that has look'd like Order or Decorum during that Time, (a few Months excepted) but of that I shall say no more; lest i grow vain (or at least thought to be so) in Commendation of one who truly deserves my Praise.</p><p>As to the Farce, if any,Gentleman thinks himself touch'd home, or but sightly glanced at, let me advise him to keep his Sentiments to himself. A prudent Man wou'd I'm sure; and he must be a most egregious Fool who wou'd reject my Council. </p><p> But now I shall proceed to give a just Account of the Manner of my being discharged, as to the Reasons, that will be as difficult a Task For me as for the Gentleman who did it; for he has often Spoke of me as one, whom he thought, worth Acceptance (as a Player) in any Theatre; therefore, any contrary Reason after such a Declaration wou'd be ridiculous; but I had a Letter sent me, to inform me, the Charge being too high, made it necessary to lessen it by dismissing me. I confess it was what Idid not in the least expect, as being ignorant of having deserved it; when a Motion was made for my being recall’d, tho'not by me; I was refused, and it was not long before we left off playing; (that I at a Quarter of an Hour's Warning, twice read two capital Parts, viz. The Queen in Essex, and another Night Cleopatra) which, I believe, I did not appear scandalous in, if Imay be allowed to judge by the good Nature of the Audience, tho 'on such Occasions they are generally tender to young Players.</p><p>I can't but say 'tis hard to be deprived of the Means of an honest Livelihood, without giving some immediate Provocation; and for my private Misconduct, which it seems, has been (for want of a better alledged as a Reason) tho'a bad one; for while my Follies only are hurtful to my self, I know no Right that any Persons, unless Relations, or very good Friends, have to call me to Account. I'll allow private Virtues heighten publick Merits, but then the Want of those private Virtues wont assess an Actors Performance.</p><p>And for me, tho? I confess it with a Blush, I have paid so little Regard to myself, that I rather have made my Faults too conspicuous, than that I have concealed them; so the Town will hardly be surprised at what they have been so long acquainted with.</p>===PREFACE===
+An Occasional Prologue Spoken By Mrs. Charke===INTRO===When the first Pair from Paradise were driv'n,<br>Thay sigh'd, thy wept, and mourn'd their latest Heav’n<br>With Grief unbounded, left their native Seat,<br>While resounding Echos did their Woes repeat,<br>I, like them from ancient Drury expelled,<br>Why I know not, yet helpless to be repeal’d,<br>To this poor Refuges 'unwillingly I flew;<br>And humbly refer my hapless Cause to you;<br>When injured then the worst Judges we become,<br>And partial to ourselves heighten our Oppressor's Doom,<br>No, I rather chuse your Pity than your Scorn<br>Of All Ills that's the hardest to be born,<br>That I have Faults unlimited, I do confess,<br>Yet that, makes not the Wrong of o' hers less;<br>All my Hopes do on your Smiles depend,<br>Nay, my bonded wishes as no o her Friend;<br>Since exil’d thus from my dear native Land,<br>And cast on Fortune's Stream; afford a saving Hand<br>Your friendly Pity I must earnestly implore,<br>And tenderly assist to wash me to the shore,<br>With unwearied Toil l'll hourly strive to please,<br>If successful think't a Conquest gain'd with Ease,<br>To your good Nature ever pay a just Regard,<br>And think each Efforts too little for the sweet Reward.===PROLOGUE===
+Diction:M:Dict
+Porter:M:Port
+HeadPiece:M:Head
+Mazely:M:Maze
+Bloodbolt:M:Blod
+Squire Brainless:M:SqBr
+First Merry Andrew:M:And1
+Second Merry Andrew:M:And2
+Notandum:M:Nota
+Boxkeeper:M:BoxK
+George:M:Geor
+Peter:M:Pete
+Actwell:M:Actw
+Buskin:M:Busk
+Miss Glidewell:F:Glid
+Pinwell:F:Pinw
+Mrs. Tragic:F:Trag===DRAMATIC PERSONAE===
+StageDirection:===Enter the Porter to the House, and Dicton, with a Bundle of Letters.
+Dict:===Here, deliver these Letters as directed, and summons the rest of the Ladies and Gentlemen to Rehearsal of the new Comedy.
+Port:===Pray Sir, which wou'd you have me do first; am apt to think, twou'd be better to summons those that are left, before I carry the Letters for those that are dischargd; else, you'll probably wait ’till three o'clock in the Afternoon for a Rehearsal.
+Dict:===You are in the right; therefore haste away.
+StageDirection:===Exit Port, Enter Headpiece and Mazely
+Head:===Dicton, good Morrow; - Well, how go Matters here?
+Dict:===Truly, Sir, very poorly. All our best Players are discharged, and those that know nothing at all of the Matter, are - to have their Salaries rais'd!
+Head:===I find our wise Manager is resolv’d his Players should not put him out of Countenance, by having more Wit than himself?
+Maze:===For my part, I am in a perfect Maze! And for my Soul can't see what he's driving at! -Prithee! what is this new Comedy we are to rehearse.
+Dict:===Oh, a'most elegant Entertainment, assure ye! 'Tis a Performance which can't chuse but please! 'Tis called the Union of the Bear and Monkey! 'Tis a Dramatical Pantamimical sort of Comedy. And I believe the first of its kind that ever was exhibited. 'Tis to be performed by Merry Andrews, Monkies, Bears, and Prize-Fighters.
+Head:===Monstrous! that Acting should be set upon such a wretched Footing but 'tis impossible the Town can encourage it.
+Dict:===Egad! Sir, they had better, for Mr. Bloodbolt wrote the Thing; and the Town must all meet him at the Bear-Garden, if they offer to disapprove it; nay we have some of that Fraternity placed here, as Box and Gallery-Keepers, to frighten the Audience into Applause!
+Head:===If the Town don't rise in Arms against these Proceedings, it never deserves a decent Entertainment again; but I have some private Reasons to believe, that this won't hold long, and that you'll see a new Face of Business here shortly,
+Dict:===O! for that Matter, Sir, I have seen above twenty this Morning already; Why we have got all the Merry Andrews from Bartholomew Fair; and I believe in a little Time, we shall have Rope dancing to entertain the Audience, while the House is filling. 
+Head:===Not unlikely truly! - But pray can you give a List of those discharg’d.
+Dict:===Yes, I believe I have 'em all down, but there's one who has her Discharge whom you don't suspect! Mrs. Tragie!
+Head:===Tragie! Her Discharge’d! For what?
+Dict:===O! that no Mortal can tell.
+Head:===How did she receive it?
+Dict:===O! most heroically! for she concealed her Surprize as much as possible, but pity'd our Managers want of Judgment, more than her own Disappointment!
+Head:===Every part of his Conduct is of a Piece with this! therefore I don't wonder more at it, than at any Thing else he has done.--- Are you very busy, Diction?
+Dict:===No, Sir.
+Head:===Well step with me to Talbot's Coffee house, for I have something to communicate to you. 
+StageDirection:===Exeunt. 
+===SCENE===
+StageDirection:===Enter Miss Glidewell, and Pinwell, one of the Women Dressers.
+Glid:===Dear Mrs. Pinwell, you know 'tis not in my Power to speak for you, for Mr. Brainless is endeavouring every Day to find out a Clause in my Articles, that he may discharge me too: Nay, sometimes sends for me to practice a new Dance of a Sun day Morning, (which, to say Truth, I never deny'd doing, because he shou'd not have the Pleasure of making that a Plea, for getting rid of me.)
+Pinw:===Tis very hard, that I who have been these 10 Years in the House, shou'd be turn'd without any Reason. I am sure, Madam, you can witness for me, I never have once been guilty of Neglect, and really I think I know My Business as well as Mrs. Pinwell! who came in, but last Season! I know well enough why she's a Favourite! People are not blind! Let her think as she pleases! However least said is Soonest mended! For my Part, I value my self as much in my Stuff-Gown, as she in her 'Silks and her Velvet Manteel. Well! kissing goes by Favour! So I'll say no more! However, Ma'am, if you can serve me, I shall be migh tily oblig’d to ye.
+Trag:===Consider! no! 'tis beneath me to consider! Let them consider who inflict the Injury! Then let them tremble at the Thought! Ha! discharg’d! dismiss’d! turn’d out! Death! Rage! and Torture! Now mourn ye tragic Muse Since Tragedy's expell’d! Now Revenge alone Shall sate my Fury! To Raggs, Blank-Verse!--<br>I'll tear like Actress's of Drury! Like thein:<br>When most enrag’d, with soft’ning Whine,<br>Break; quivering I break, the Feet in every Line.<br>Then when Love's soft Passions touch the Heart,<br>I'll rant and roar! Sound; not Sense, impart;<br>No more with just Accent grace my Tale,<br>But Nonsense, Noise, and Spangles shall prevail.<br>
+Head:===Prithee, no more; Learn rather to make yourself a real Loss, to them, than a happy Riddance; will your acting ill make them, or yourself most. Let Reason get the better of these mad Passions! and be advis'd by me. You know I wish you well; well; and as you are ally’d to me, consequently, have you more at Heart.
+Trag:===My Thanks receive with Gratitude Sincere<br>But, oh! alas! Fate like mine, what Heroine can bear;<br>Thus to be repay'd, for true Service done,<br>The Day will be when thou wilt mount the Throne,<br>And tumble thence by Merit's forceful Aid;<br>This stripling Tyrant, that does my Peace invade;<br>Then Men (not Apes, nor rough-hewn Bears,<br>Nor mimick Andrews, from Smithfield Fairs)<br>Shall our Stage again, in Pomp, explore,<br>And to her proper Rights the tragic Muse restore.<br>This with prophetic Voice, I now proclaim,<br>That thou, my Hero, shall in Drury reign.<br>
+Head:===Perhaps the Prophecy is good, yet for a while, we'll our Thoughts in our own Bosoms we'll confine; but see the Author of your Wrongs; be calm as Summer Seas, and patient as the Dove.
+Trag:===Yes, I will choak in this swelling Oath, that rises in my Throat; stifle my Rage and learn from him, to dress my Face with smiling damn’d Deceit. But he comes.
+StageDirection:===Enter Squire Brainless. 
+SqBr:===Good Morrow, Sir, -Mrs. Tragic your I Servant, you look mighty well, I hope you are so. 
+Trag:===And darst thou hope, thou Blockhead, Tyrant, Ravisher of Merit's Right.
+Head:===For shame, nor let your Tongue good Manners so far exceed.
+SqBr:===Pray, Madam, what is the Meaning of this tragical Rant; sure you are mad, or talk in your Sleep.
+Trag:===Ha! not mad; but bound more than Madness is. Deprived Theatric Rights; confin’d to that of low Degree. - Prithee, let me rave, nor dare disturb the solemn Purpose of my Soul.
+StageDirection:===To Head.
+SqBr:===Heigh! Day! Prithee, Headpiece, is she often troubled with these Fits --- Why, what's the Meaning of it?
+Head:===Why, your Usage, Sir! 'To be plain with you, is the Motive of it - 'twas base to discharge her when 'twas too late for her to provide elsewhere. I must confess, I think, it is not the most politick, or honest Thing, that ever was done.
+Trag:===No! base Recreant, No! nor Policy, nor Honour there, Took Place; within my savage Breast, or empty Pate; Gods! I'm amaz'd! to think that e're Stupidity shou'd sit upon Theatric Throne! I had been happy had Scene-men, Candle Snuffers, Or, Bill-stickers, been Masters there, so I had Nothing known; Oh! now farewell the haughty Strutt, The Salary That make Actress's extravagant and Farewell the spangle Robe, and the tir'd Page, whose Akeing Legs that rowl ,and Players Pride has oft Supported. O farewell, the Diadem and Crown that Make thrill Voices squabble for Parts of Proud Queens Oh! farewell all Pride, Pomp, and Circumstance of Self-Conceit. Farewell all, far Tragic's Occupation's gone! 
+SqBr:===What the Devil's all this!---sure, Ma'am, I am best Judge of my own Affairs; and as I have no farther Business with you, I desire to hear no more of your Tragical Impertinence!
+Head:===Losers, Sir, may have Leave to speak; you can't suppose a Woman of her Spirit, could tamely bear such Treatment.
+SqBr:===As to that, Sir, ’tis entirely equal to me whether either of you are pleas'd; for My Part, I find Management so troublesome a Business, that I wish I were fairly rid of you all.
+Head:===As to that, Sir, I don't see any Business you had to undertake what you did not understand; all who are bred and born in it, must necessarily know more of it than a Man of Fortune, who never appear'd but in a Side Box, or behind the Scenes; In my Opinion, Sir, your best, and wisest Way is to sell.
+SqBr:===What, have you a Mind to buy, Sir, I fancy you must be a little patient in that Respect!
+Head:===Truly, Sir, I think you as little a Judge of that as of Management And let me farther tell you, as a Friend,that to sell now you are offer'd a Purchaser, will be more to your Credit and Advantage, than to stay till no Body will purchase. And if I forelee aright, that must be your Case, shortly! 
+SqBr:===Sir, you are extream wise in your own Conceit, but less Impertinence would become you better; -As for you, Madam, I have no more to say to you, and desire you'll trouble my House no more.
+StageDirection:===Exit
+Head:===Why let the striçken Deer go weep! --- Come, Tragic, don't despair, for yet I'll feel thee great as thy Ambition prompts thee to; yes, my fair one, Rebellion must ensue, Res bellion! Oh! thou glorious Thought! Rebellion! Tragic, think, think on that!
+Trag:===Ha! my Spirits rouze even to mighty Daring! Pursue, my Hero! thy noble Purpose, pursue Thy wanted Courage, and redoubled Strength! Pursue it now, lest thy Mind shou’d change!
+Head:===Never, my Tragic,'twill never changes No; this Instant, with my Brethren, in solemn Council, we'll debate on this most important Act of Glory!
+Trag:===Oh! twere such a God-like Act, as Players yet Unborn shall bless thee for.<br>Come then, my Hero, No longer let's delay!<br>Revenge spurs on to meet the joyful Day, The glorious, Day,<br>when to our Honours we're restor'd,<br>And Theatres again, thall own thee for their Lord!
+StageDirection:===Exeunt Scene continues. Enter Bloodbolt, and two Merry Andrews.
+===SCENE===
+Blod:===Come, come, along, i'll send for Mr. Brainless this Moment; I have got, you must know, two new Pantomines, upon the Stocks. –Now you have a rare broad Face-And I fancy you'll do mighty well for a Bully - or let's see! You look stupid enough for Pierot.
+1And:===Just what you please, Sir, nothing comes a - miss to me.
+StageDirection:===Enter Squire Brainless. Bloodbolt takes him aside.
+Blod:===Harkee – rare Fellows – faith! Damme, they made such Fun in the Balconies I wou'd not miss'd on them for all the World!
+SqBr:===Secure 'em at once then, offer 'em anything in reason.
+Blod:===Oh! Zoons we can't give them less than Fifty Shillings a Week, Damme, they'll do! These are your right Fellows! Ah! Let me alone, we'll shew them the odds on’t, we shall be Slaves to the insolent Airs of a capering lac'd Waistcoat, and sprain'd Ankles, when here's good English Bloods, know more in a Minute than they do in a Month.
+SqBr:===Well, well, set 'em down this Moment, there has been the Fellow with the wonderful Elephant; Thave listed him, you may introduce the Elephant in your new Entertainment.
+Blod:===What do you give him?
+SqBr:===Thirty Shillings a Week.
+Blod:===Zoons! make it Forty or you'll lose him.
+SqBr:===I will! I will! well Gentlemen we have resolv'd upon having you; so we desire you to attend every Morning, for we shall find you constant Employment.
+1And:===Thank your Honours! Peter, I wonder what Pay we are to have.
+2And:===I warrant Six Shillings a Week, ’tis all the Year you know, and we had but, half a Crown a Day at the Fair.
+1And:===Gad, that will be rare to have Six Shillings coming in constantly, faith 
+StageDirection:===Brainless turns to them and speaks
+SqBr:===We have set each of you down turning to at Salary, and what I believe will content you; Fifty Shillings a peice, per Week.
+2And:===Waunds, Peter, there's a Salary! gad since 'tis so we'll stand upon Terms: Ah!! Sir, I was in hopes you'd make it Three Pound, my Brother and I wou'd be willing to stay for that, but 'twou'd not be worth our while: to take less, we cou'd not live, Sir.
+Blod:===Oh! but, Friend you liv'd upon less at the Fairs, come, come, don't exact upon us because we are willing to engage you.
+2And:===No, Sir, for my Part I don't care to take that, there's a great deal os Slavery, and I won't think of anything less than Three Pound.
+Blod:===Zoons and sire, this is an Imposition.
+2And:===Well, Sir, there's no harm done, your Servant Gentlemen, O no hurt in the least, if you are not as ready as we; no, no, we scorn to impose on any one.
+StageDirection:===Offers to go.
+SqBr:===Hold, Gentlemen, you shall have your Demands. ‘Tis not Ten Shillings a Week part us, I give you my Word, you Shall have Three Pounds.
+2And:===Very well, Sir, we are ready to you, and enter into Articles as soon as you please.
+SqBr:===Apropos! here comes Mr. Notandum my Lawyer, he shall draw them up this Moment to serve.
+StageDirection:===Enter Notandum with a Bag of Money.
+SqBr:===O! Mr. Notandum, you are come in a lucky Moment, here's two honest Gentlemen that are engag’d, and we want to sign and seal as quick as possible.
+Nota:===Well! step into the green Room, and send for a Sheet of Stamp Paper, I'll do it immediately; here, Sir, is the Thousand Pound you wanted, this and what you have had last Week, makes two Thousand five Hundred.
+SqBr:===Well! give it me, and take care again next Saturday, to send in five Hundred more into the Office.
+Notan:===I shall, Sir, come we'll go and dispatch these Articles. 
+StageDirection:===Exeunt. As Brainless goes in, he is met by the Porter and a Lady.
+Porter:===Sir, this Lady desires to speak with you.
+SqBr:===With me, Madam.
+Lady:===If you please, Sir, I understand, Sir, that you have dismiss’d several of your Actresses, and I shou'd be very glad if you wou'd accept of me, for I have play'd with great Applause, I assure you, Sir, at the other House, only we disagreed about Salary.
+SqBr:===Pray, Madam, what Parts have you ever play'd?
+Lady:===O! Sir, I have play'd top Parts I assure you; I have play'd Jane Shore, Cleopatra, and Lady Townly, and the Fair Penitent, and Lady Betty Modish; in short, Sir, I have play'd none but Characters of that Cast.
+SqBr:===Well, Madam, what Salary do you ask?
+Lady:===Sir, five Pounds a Week.
+SqBr:===I am very sorry we can't agree, for we are resolved to bring all our five Pounders down to Twenty Shillings, for I don't think any Actress worth more; I am sorry for it, Madam, but our Charges are so high, we can't possibly hold it.
+Lady:===For that matter, the Town has thought so a great while, But your reducing Players Salaries, and raising of Puppet-Showmen, neither is a Proof of a Judgment, or your Justice, so, Sir, your Servant.
+StageDirection:===Exit.
+SqBr:===Yours Madam, well 'tis to me a most monstrous thing, how Players can dare to exact such Salaries, when I am positive not one of them brings half the Money in three Months that they receive in One. 
+StageDirection:===Exit. Enter Diction, Mazewell, Tragic, Headpiece and Glidewell.
+===SCENE===
+Head:===Well, Diction, have you positively resolv’d upon what I propos'd?
+Dict:===So far resolved, that I am determined to follow you, go where you will, but I'd advise you to a very little Patience, and you'll find things brought about, without much struggling with your Antagonist; you are to understand that I have a secret in my Bosom, that assures me, you must triumph here shortly, for depend upon it, our wise Managers won't be able to stand long.
+Head:===Prithee, let's hear the mighty Secret?
+Dict:===Why in the first Place, you know that we are pretty much out at Elbows, and truly no wonder, considering how much we are apt to shake 'em; then you are not to learn how deep we are with Notandum, that's another Article against us, then our Judgment being small, and our Discretion less, we cannot possibly stand long under these Burdens,our Backs must break of Course.
+Head:===Humph! these Reasons are forcible enough, I smell something, then consider how we have contracted with particular Persons for certain Sums, we shall hardly be ever able to pay, this favours much of Bankruptcy? What think you, Diction?
+Dict:===Think, I know it must be so, come Mrs. Tragic hold up your Head, you'll shortly be above them all.
+Trag:===Nay, I will! 'tis not that I shall, I'll make the proud Tyrant know, that Tragic resolves to be revenged. Revenge! oh! there's Music in the Sound, like warlike Symphonies it chears my Heart, and glads my Soul with hopes of Conquest.
+Maze:===Well said, Tragedy; methinks, I wish the War was begun, I long to be in Action.
+Trag:===What needs a War? When Deposition is at hand, but say my Diction, how stand thy Articles with this Tool in Power?
+Dict:===O my Articles don't give me much Uneasiness, for you must know I engag'd for ten Years for a certain large Sum play or not; so if he is forc'd to throw up his Government, still I can insist upon my Agreement; therefore I lie quiet and snug to see how Matters go, but whenever, or wherever your Worship reigns, I am your Subject and ready to obey.
+Head:===Well, I believe, I shall shortly claim your Promise.
+StageDirection:===Enter a Boxkeeper following Bloodbolt.
+Boxk:===Pray, Sir, tell me the Reason of my being discharged? I am sure there was never any deficiency in my Account, nor was I ever negligent in my Business time.
+Blod:===That is not my Business, Sir, we must have Fellows of Spirit about us, Rogues that fear no Colours; Damme if an Audience makes a disturbance, then we shall know how to deal with them.
+Boxk:===I thought, Sir, there was Guards provided to quell any Disturbances, 'twould be a fine thing that the Boxkeepers shou'd all turn Bullies.
+Blod:===Guards! Zounds we'll save that Expence, what need we have Guards when we have Men about us that can act in a double Capacity; no, no, we'll have no Guards, 'twill good deal sav'd in a Season, therefore don't trouble me any longer but be satisfied and get about your Business.
+Boxk:===Blood, Sir! Pay me then, since you won't employ me any longer I won't stir without my Money
+Blod:===Go to the Office and receive it then.
+Boxk:===What signifies going to the Office, you know there's nothing there for me, but my Money I will have, and so look to yourself.
+StageDirection:===Exit
+Blod:===These saucy Scoundrels, make as much fuss as if they were of Consequence.
+Dict:===Why, for that matter you must expect 'em to grumble, if they are turn’d off, especially without being properly discharged.
+Glid:===Well, Sir, is this practice to begin or no, for positively I can stay no longer.
+Blod:===Well, then you may let it alone, break your Articles as soon as you please, 'tis equal to me.
+Glid:===Aye, I know that's what you want, but all you can do shan't provoke me to it.
+Blod:===Why, then you must have Patience till we are at leisure.
+Head:===You may fancy this to be a legal Proceeding, Mr. Bloodbolt, but you'll find yourself very much mistaken.
+Blod:===That may be, Sir, but I fancy that every branch of Theatrical Business, is as great a Plague to him that undertakes, as Matrimony, and when once I get out of this Noose, I'd as soon run into the other, as ever to have anything to do with it again.
+Head:===Truly, I don't see any reason for your ever undertaking it, and if you'd be advis'd by me, you'd give up this Moment what neither you understand nor belongs to you.
+Blod:===What do you mean by that, you speak as if you thought I had no right to be here, I desire you'd explain.
+Head:===Why to say truth, I am inclin'd to think that there are Employments wou'd fit easier on you than this; and that you might make a better Figure in. And to deal plainly with you, the whole Company don't approve of being under your Direction, therefore I think the sooner you take my Council the better.
+Blod:===I am the Company's very humble Servant, and than't trouble myself at their displea. sure. Zoons, 'twou'd be a pretty thing indeed if I were to mind 'em, no 'tis sufficient if I takePains to make them mind me; and that I am Master here they shall all find. What they are mad I suppose, because they See I understand the Art of managing a Theatre, 'tis that theyare discontented at, now they have met with their Match!
+Head:===For shame don't imagine that we are Fools or Cowards, that we dare not dispute your right of Power, none here are bound to obey you, nor will they let me tell you; our Articles don't include you, therefore you must pardon me, if amongst the rest, I chiefly vote against your Government.
+Blod:===Methinks, you seem to be sowing the Seeds of Discord and Rebellion; but do your worst, young Sir, we are prepared for whatever your Malice can determine; tho’ let me advise you in my turn, don't take up Arms as before, because when you are forc'd to lay down your Colours, may be we may not be so fond of lifting you again.
+Head:===I shall scarce put you to the Trial, Sir, whenever I sally out again, I fancy 'twill be to so much Purpose, that I shall scarce be reduced to fight under your Banner again.
+Blod:===Well! well! I see which way the wind sits, but we are a strong Company without you, thanks to my Management, which you so mightily condemn, I am afraid that go when you will we shall rout you, as much as you despise it. dispute with!
+Head:===That I don't think worth my while to you about that can only be an swer'd in the Event.
+Blod:===Aye, aye, let that answer it, we shall see.
+Trag:===Nay more! you shall feel the mighty Vengeance which my Wrongs have rais'd with my Breast, i'll with my Headpiece go, and jointly plot the ruin of thy State.
+Blod:===So, so, I find we must blockade again, or else our Territories will be invaded as before, here's two or three clever Dogs about the House, whom I have just listed will be able to stand a Tussel with your Myrmidons, begin when will. We'll to it Tooth and Nail, Blood, this looks like Business now: here Doorkeepers, Porters, where are you all.
+StageDirection:===Exit.
+Trag:===Thanks to the Gods that thus have done me Justice,<br>Now, great Hero, the Storm's allay'd,<br>And Conquest crowns the End of every Wish<br>No more shall Tyrant Power my Right divest,<br>No more shall Tragic Rage corrode my Breast,<br>But with unbounded Joys to thee I yield,<br>Eager to have insuring Parchments sign’d and seal’d;<br>Let's haste, Impatience grows too strong;<br>Delay distracts me, and we stay too long;<br>Oh! for a Lawyer now let's quickly send,<br>Transports so increase, they never can have End,<br>Beyond the Grave, at thy Triumphs, I'll rejoice,<br>And in Elysium, in thy Praise, I'll raise my Voice,<br>Till the pale Ghosts revive at thy Applause,<br>And Heav'n and Earth concurring own'thy Cause.<br>
+StageDirection:===Exeunt. Enter Bloodbolt.
+===SCENE===
+Blod:===Heigh - day, what are they gone! Headpiece, Tragic, Glidewell, stay, stay, I have Business with you. What the Plague? they can't be got out of Earshot already; but, 'gad, I'll follow them, for since poor Brainless.is dispos’d on, I'll even be included in a new Treaty with them.
+StageDirection:===Exit. Enter George and Peter
+Pete:===O, Brother George, what are all our Golden Days Come to now? We must e'n to Fairs and strolling again.
+Geor:===Hang it, let's try what we can do with Mr. Headpiece, maybe he'll take us.
+Pete:===Pooh! you Blockhead, Mr. Head piece knows better Things, he won't take us; what! when he exclaimed against our being listed before! no, no, tho’ we were to have been Captains in t’other Company, he will hardly accept of us for private Men in his, he designs to set Tragedy on Foot again, and Plays are to be as they were in former Days, when Actors only were valued! and such poor Dogs as we wou'd have jump'd at being Candle Snuffers.
+Geor:===Why then we must e'en petition for some such Post now, tho', methinks, 'tis a cruel Fall from three Pounds a Week to as many Shillings; it don't sit easy upon me.
+Pete:===Why, to tell you the Truth, I don't like it any more than you do, but, since the Devil drives, we must needs go, you know. George. However, we need not speak at first, let us boldly to him, and insist upon staying according to our Articles.
+Pete:===Why, you are mighty politick, Brother, but if we boldly insist upon staying, he will modestly desire us to walk off. So let him be the bold one, and let us humbly cut a Caper for Joy, if he admits us as Scene-Men; if you don't take my Advice, tho' you are a very good Tumbler to be sure, yet, if you Thou'd tumble quite out of your Bread, 'twou'd be the worst Somerset you ever made in your Life.
+Geor:===Odlo, here he comes, 'gad, I'll speak to him.
+StageDirection:===Enter Headpiece.
+Both:===We give you Joy, Sir!,
+Head:===Thank you, Friend.
+Geor:===I hope, Sir, we shall have the Honour to serve you; my Brother, Sir, and I, were articled to the Squire, poor Gentleman, I am sorry for his Misfortune, but I hope, Sir, we shan't fare the worse for’t.
+Pete:===You know, Sir, we are in Articles, and I hope you won't make them void. Head. Really, Gentlemen, I am sorry it so happens, but all my Scene-Men are fixd, for I design to restore the old Servants that were turn'd out, for no other Fault than under standing their Business: I am sorry I can't oblige you, Gentlemen.
+Geor:===Scene-Men, Sir, I don't understand you.
+Head:===Nay, I an't sure if there is not a Vacancy among the Bill-Setters and Lamp Men, if there is, you may each of you depend upon Places.
+Geor:===You know, Sir, I am a famous Tumbler, and can perform upon the Stage.
+Head:===Yes, Sir, but the Stage has been of itself tumbling a great while, for which Reason, I don't intend to have any more of that Sort of Performance, there, but shall endeavour, as fast as I can, to set it upon its Legs Again.
+Pete:===Did I not tell you how it would be; -Come, come, let's strike while the Iron's hot, for my Part, Sir, since Things can't be better, we must be contented with them as they are, so if there be a Lamp-Man's, or a Bill, Sticker's Place, I shall be very proud to accept of it.
+Head:===I won't absolutely promise, but if there are such Places to be fill'd up, you may depend on one.
+Geor:===Well, half a Loaf is better than no Bread at all, so, Sir, if you please to think on me, I shall be greatly obliged to you, tho? Lamp-Man is a very stinking Trade, yet, if there's nothing better, I shan't refuse that.
+Head:===At present I am going to be busy, but if I can serve you, I won't be worse than my word
+Pete:===Bless your Honour! Come, you foolish Dog, I think we are very well off.
+Geor:===Aye, Brother, but three Pound a Week is better for all that.
+Pete:===Yes, Brother, but since three Pounds is not to be had, six Shillings a.Week is not contemptible, come along, and drink Master's Health, and be thankful
+Geor:===Oh! my poor Dear, three Pounds a Week, what art thou come to?
+Pete:===Why, down to fix Shillings, you Dog, come along, and be contented.
+StageDirection:===Exeunt. Headpiece solus
+Head:===So, every Man in his proper Sphere. I Can't but think the Places these two Gentlemen are going to undertake, will become them much better than the Posts they were to have had in the Squire's Reign. Oh! here comes Mr. Bloodbolt, he seems to be in a violent Hurry too.
+StageDirection:===Enter Bloodbolt.
+Blod:===Hey! Mr. Headpiece, where did you hide yourself? I have been search ing you in every Corner; well, dear Boy, I wish thee Happiness and Success, why, this is a sudden Change, nay, you did not think so soon to be Master here!
+Head:===I can't say I did. Not to feel my own good Fortune wou'd be insensible indeed, but since it arises from another's Miseries, I have not that Excess of Joy in it, that other wise I shou’d
+Blod:===Why, to say Truth, my Friend has made a cursed Mistake in his Matters, to bring Things to this Head; faith, I wish you had been deputed Manager, Things wou'd have gone better, I see that.
+Head:===For me to say so wou'd look vain, yet I can't think they wou'd have been quite so bad, if I had been thought worthy; but you were as positive as the 'Squire, and now you see what comes on't.
+Blod:===Well, I confess we are to blame, but since 'tis too late to repent, e'en say no more on't ': but now I want to treat with you.
+Head:===Treat with me, Sir! ·
+Blod:===Aye, you know I have some new Pantomines, and, if we can agree, you shall 'em have perform’d for you, they are clever Things, faith; you and I will carry the whole Town before us.
+Head:===I am not going to dispute the Merits of your Compositions, but if you carry the Town before you, you must do it by yourself, for I positively resolve never to enter into any Treaty with you whatsoever.
+Blod:===Why so, pray?
+Head:===You must excuse me giving any other Reason than my Will, I am determined: not to admit any Partners, but keep the Power s. in my own Hands; I have a very good Company to support the Business, and am resolved to use 'em well according to their Merits. Besides, taking in a Partner is like a wealthy Tradesman, who is well set up, giving away half his Profits to a Journeyman.
+Blod:===Zoons! Sir, do you fancy me to be of no more Service, in a Playhouse, than a Journeyman in a Shop; I think I have giv'n Proof of what Use I can be.
+Head:===Great Proof, indeed! in the first Place, Sir, I must take the Liberty to tell you, that there is not a Branch of the whole Business, that you know anything of, and in the next Place there are some Qualifications necessary in the Disposition of a Manager, that you are not happy as to be possess’d of.
+Blod:===Mighty well, Sir, pray go on,
+Head:===You know you have not the tenderest Way of thinking, but are apt to persevere in wrong Measures, purely because you vainly think 'em right.
+Blod:===What wrong Measures have I taken? Pray name one.
+Head:===Twou'd be needless for me to expatiate upon what the whole Town is so acquainted with.
+Blod:===P’shaw, damn it, you and I won't fall out for all this. Why, how was it possible for me to be right, when there was a superior Power there, that was as obstinate as the Devil! If it had been between you and I, the House had been in another Plight, than what it now is: But however let's join our Forces, and then see what we shall make on't.
+Head:===Tis a known Maxim with me, that whatsoever I determine, if it be right, I pro ceed in't, tho'all the World were jointly to dissuade me from it.
+Blod:===And you won’t agree with me.
+Head:===No.
+Blod:===Really
+Head:===Positively.
+Blod:===And you are resolved.
+Head:===To an Extremity of Resolution.
+Blod:===And you are really so blind to your Interest,
+Head:===I really am not blind, but will have nothing to do with you.
+Blod:===Why then you and the House maybe damn'd, I'll erect one at the Bear-Garden in a Month, that shall undo you in a Fortnight.
+StageDirection:===Exit.
+Head:===I imagined his Rage wou'd carry him thither. What a Head has he to think it worth his while to employ so much of his Time in what he absolutely knows nothing of? I think, tho’ 'tis pretty plain that he had no legal Right to be concerned; if he had, I shou'd not so easily have got rid of him; I know that Money is his Deity, and he wou’d part with his Blood as soon; what ridiculous Fools must he have thought us all this while, to be govern’d by him who had no Pretensions to it! but now 'tis past, and no longer worth my Thoughts. Ha! my Friends approach, with open Arms, I'll meet em
+StageDirection:===Enter Diction, Tragic, Mazewel, Glidewell, Actwell and Buskin.
+===SCENE===
+Trag:===Now my Friends we once again are met in Council,<br>The Fate of Brainless summons us together,<br>And Drury attends it Fate from our Resolves,<br>Pronounce your Thoughts, are you resolved to stand<br>By Headpiece? Are you fix’t?<br>Or does any on Desertion think.<br>Mazely speak.
+Maze:===My Voice is still for Headpiece. Gods! Can true Britons long debate, When Honour with their Words are past, We'll all stand by him.
+Alle:===All, All, All.
+Head:===Oh, my Friends! come to my Arms, and in separate Embraces let me speak my Thanks.
+StageDirection:===They all embrace him, Trag. last.
+Trag:===O! my Headpiece. No longer now shall jarring Discord, nor tyrannick Power molest thy Peace, thus each others Heart let's mutually partake, and may endless Blessings wait thee; my Joys crowd fast upon me, and I scarce have Power to tell thee, what Ecstasy of Joy, thy Fortune gives me.
+Head:===My Sister! Oh! let me hold thee to my Heart.
+Trag:===There if I grow the Harvest is your own.
+Glid:===Now my Heart resumes its 'wonted Ease, and greets you with Success.
+Dict:===Drury again is free, and truant Fortune, that has long forsook it, now overpays in Headpiece every Wrong it suffer'd.
+Actw:===If amidst this glad Scene, my Congratulations may be received with no less Delight, I hail thee Headpiece with the Sound of Joy.
+StageDirection:===Head Bows.
+Busk:===We know thy generous Mind, ne'er was sully'd by Ingratitude, but Honour in every Shape still shines conspicuous in thee. Never was one so form’d, in every Circumstance For Power, who like thee can with persuasive Reason govern, so that thou rather smiling seem'st to obey, yet not meanly, but as a Conqueror shoul’d
+Head:===What can I answer? All that I know is, that you are good, and I am happy.
+Trag:===True, we are all so, and the Joy is in ourselves.
+Head:===To ease our past Anguish, by Justice sway,<br>Is to enjoy such Bliss as never can decay.
+StageDirection:===Enter Notandum
+Nota:===Well dear little Headpiece, now, methinks, 'tis as it shou'd be.. I am so divided between Grief and Joy, that I scarce know which will take the deepest Root; but I believe my dear Boy, my Transport will soon get the better of my Sorrow, for without Compliment to thee, I don't know the Man, who better deserves to be Dame Fortune's foremost Favourite.
+Head:===Tis almost an insupportable Pain of Joy that I feel, and I myself am doubtful that I have or ever can describe it. How have you dispos’d of poor Brainless?
+Nota:===`Alas! He's immur'd for Life: I can't say but his hard Fortune gives me infinite Distress, but 'tis quite irreparable; therefore since 'tis so, we must think as little of it as we can. However, I've a Petition to you, Headpiece, and to you Mrs. Tragic, but I must have your Promise of Compliance, before I put the Question to you.
+Head:===You may command me, Sir, and Tragic, for my Sake, will as readily consent whate'er it be. i
+Trag:===Thou know'st I am entirely at thy Devotion, therefore let Notandum speak his Pleasure freely.
+Nota:===Thus then; since poor Brainless never can be himself again, let us mutually contribute to make his Bondage as easy as we can; therefore the first Night you open, let it bc for his Benefit; this will recommend you to the Esteem of every tender Heart, and give you Claim to their Regard.
+Trag:===With all my Heart, I willingly agree; my Revenge is oversated; I cou'd not have wished him to have met with this cruel Fate, tho' he might have deserved it.
+Head:===Name a Play, and we'll immediately give Orders for it.
+Nota:===Why, he desires you'll play All for Love, or, the Earl of Ellex. Mrs. Tragic once read the Characters of Cleopatra, and the Queen at a Quarter of an Hours Warning; and tho he confesses, that he has us’d her ill, yet he begs that she'll consent to perform one of them for his Benefit.
+Head:===‘Tis equal to me what— But has he so soon forgot how he raised the Devil in my Breast, when I stalk'd abroad, and the Playhouse Passage trembled at my Roar.
+Nota:===No more of that, but learn at once to forgive, and if possible forget.
+Trag:===Forget! forgive! I must indeed forgive, when I forgive. Ha! the Memory of my Wrongs still subside; yet I will resolve with most heroick Patience to subdue each angry Thought, and soften into Pity without one jarring Attom.
+Head:===Worthily resolved! No, my Tragie, we will repeat our Wrongs no more, since Fortune has made us such infinite amends.
+Trag:===From this Moment, Headpiece, I will forgo all future Thoughts of Injuries, and bless the Gods for this our kind Deliverance.<br>Now, No more shall furious Discords reign;<br>No more for Justice shall we plead in vain;<br>For thou, no less the Hero, than the Player,<br>Shall crown each Wilh and chase away Despair;<br>No longer Actors On their Heads shall stand,<br>Nor obey a bullying Deputy's Command.<br>Now to thy Honours, let each raise his voice,<br>And in choral Symphonies rejoice,<br>Thy Praise, thy Glories we'll together sing,<br>And proud as happy, own thee for our King.<br>
+AIR the First:===<br>Send Home my long stray'd Eyes to me. <br>No more shall Folly rule the Stage, <br>My Hero will our Hearts engage, <br>And with good Nature, easy, free, <br>Will govern well, while we obey, <br>Proud to be led by gentle Sway.<br>
+AIR II. We politick Kings.:===<br>Thus happy in thee,  <br>From Tyranny free, <br>From Fools and from Bullies reliev'd. <br>Who when they enslav'd  <br>The worthy and brave <br>They mostly themselves have deceiv’d.<br>
+AIR III. Dear Colin prevent my warm Blushes.:===<br>WithTransport I glow,and withPleasure, <br>At once bid adieu to my Pain, <br>My Wishes succeed beyond Measure, <br>Nor can I my Joy then refrain <br>Then come to my Arms and partake, <br>The Transport that rises thee, <br>Dame Fortune at length for thy Sake, <br>No longer then blinded will be, <br>No longer then blinded will be.<br>
+AIR IV. The Lover for the Favour presses.:===<br>Now Fortune smiling crowns our Wishes, <br>And deals her Favours where they are most <br>With constant Love and kind Caresses, (due, <br>May the brave Headpiece still pursue. <br>In him our Woes amends shall find, <br>May Fortune never <br>From him fever, But with Truth ever Be sincere and kind.<br>
+===ACT===
