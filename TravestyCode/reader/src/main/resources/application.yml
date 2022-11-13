@@ -1,0 +1,24 @@
+spring:
+   application:
+      name: travesty-reader
+server:
+   port: 1755
+
+travesty:
+   service: http://localhost:1713/
+---
+spring:
+   profiles: dev
+   application:
+      name: travesty-reader
+server:
+   port: 1755
+
+---
+spring: 
+   profiles: prod
+   application:
+      name: travesty-reader
+server: 
+   port: 1755
+
